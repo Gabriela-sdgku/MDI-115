@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="MDI 5 3/Localizable.xcstrings" source-language="en" target-language="ar" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="Select a category" xml:space="preserve">
+        <source>Select a category</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="account.signOut" xml:space="preserve">
+        <source>account.signOut</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="account.user" xml:space="preserve">
+        <source>account.user</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="account.username" xml:space="preserve">
+        <source>account.username</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="category.account" xml:space="preserve">
+        <source>category.account</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="category.display" xml:space="preserve">
+        <source>category.display</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="category.general" xml:space="preserve">
+        <source>category.general</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="display.appearance" xml:space="preserve">
+        <source>display.appearance</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="display.theme" xml:space="preserve">
+        <source>display.theme</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="general.autoSave" xml:space="preserve">
+        <source>general.autoSave</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="general.preferences" xml:space="preserve">
+        <source>general.preferences</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="icon.signOut" xml:space="preserve">
+        <source>icon.signOut</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="settings.title" xml:space="preserve">
+        <source>settings.title</source>
+        <target state="translated">الإعدادات</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="MDI 5 3/MDI 5 3-InfoPlist.xcstrings" source-language="en" target-language="ar" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.2" build-num="16C5032a"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>MDI 5 3</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
